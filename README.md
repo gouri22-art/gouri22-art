@@ -3,7 +3,7 @@
 
 <h4 align="center">I'm an enthusiastic **Full-Stack Web Developer** looking for an opportunity to work in a challenging environment to gain and learn knowledge. Passionate about solving real-world problems through **clean code and scalable solutions**. </h4>
 
-<img width="386" alt="pic" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img width="386" alt="pic" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri22-art&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktakudale"/>  </p>
 

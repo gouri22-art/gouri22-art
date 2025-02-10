@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri22-art&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktakudale"/>  </p>
 
-<h3><i>Happy Coding!</i> 😊</h3>
+<h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i>Happy Coding!</i> 😊</h3>
 <hr>
 
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+ 
 
 
 <!--

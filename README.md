@@ -1,4 +1,4 @@
-<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
+<h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
 <h2 align="center">🚀 Aspiring Full-Stack Developer </h2>
 
 <h4 align="center">I'm an enthusiastic **Full-Stack Web Developer** looking for an opportunity to work in a challenging environment to gain and learn knowledge. Passionate about solving real-world problems through **clean code and scalable solutions**. </h4>

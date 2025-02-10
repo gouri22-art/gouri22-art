@@ -11,7 +11,45 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i>Happy Coding!</i> 😊</h3>
 <hr>
 
- 
+ 🎓 **Background:** Computer Engineering | Masai School's **EmpowerHer Program**
+- 🔍 **Looking for:** Exciting opportunities in **Full-Stack Development**
+- 💡 **Skills:** JavaScript | React.js | Node.js | HTML | CSS | Python  
+- 💻 **Hobbies:** Coding, Learning, Building Projects
+
+## 📌 Projects  
+
+### 📖 [Book Store Management App](https://github.com/gouri22-art/book-store-app)  
+📌 **Tech Stack:** React.js 
+📌 **Features:** Authentication, Book CRUD, Filtering, Pagination  
+
+### 🎬 [Movie Database App](https://github.com/gouri22-art/movie-db)  
+📌 **Tech Stack:** React.js, Fake Store API  
+📌 **Features:** Movie Listing, Search, Favorite Movies  
+
+### 📝 [Quiz Application](https://github.com/gouri22-art/quiz-app)  
+📌 **Tech Stack:** React.js, Mock API  
+📌 **Features:** Authentication, Quiz, Results Calculation  
+
+📍 **Explore More:** [🔗 My GitHub Repositories](https://github.com/gouri22-art?tab=repositories)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gouri22-art&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouri22-art&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📬 Connect with Me  
+
+- 📧 Email: [prajakta.kudale@example.com](mailto:prajakta.kudale@example.com)  
+- 💼 LinkedIn: [Prajakta Kudale](https://www.linkedin.com/in/prajakta-kudale-8125a8247)  
+
+⭐ **"Code, Learn, and Grow!"** 🚀  
+
+---
+
 
 
 <!--

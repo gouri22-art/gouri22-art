@@ -1,5 +1,5 @@
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoshiyarjyani&label=Profile%20views&color=0e75b6&style=flat" alt="hoshiyarjyani"/>  </p>
 
 
 

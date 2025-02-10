@@ -1,6 +1,6 @@
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="175px"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri22-art&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktakudale"/>  </p>
 

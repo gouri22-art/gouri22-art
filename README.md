@@ -1,4 +1,4 @@
-<h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
+<h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <span style="color:#ff66b2;"> I'm Prajakta Kudale </h1>
 <h2 align="center">🚀 Aspiring Full-Stack Developer </h2>
 
 <h4 align="center">I'm an enthusiastic **Full-Stack Web Developer** looking for an opportunity to work in a challenging environment to gain and learn knowledge. Passionate about solving real-world problems through **clean code and scalable solutions**. </h4>
@@ -16,49 +16,57 @@
 - 💡 **Skills:** JavaScript | React.js | Node.js | HTML | CSS | Python  
 - 💻 **Hobbies:** Coding, Learning, Building Projects
 
-  <h3 align="left">🚀 Languages and Tools:</h3>
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript"> 
-<br/>
-<br/>
-  
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
+<h2>⚡ Tech Stack & Tools</h2>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" class="tech-icon" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="tech-icon" /></a>
+</p>
 
-## 📌 Projects  
+<h2>🚀 Featured Projects</h2>
+<table>
+  <tr>
+    <td><b>📖 <a href="https://github.com/gouri22-art/book-store-app" target="_blank">Book Store App</a></b><br>A React-based app with authentication, sorting, and filtering.</td>
+    <td><b>🎬 <a href="https://github.com/gouri22-art/movie-database" target="_blank">Movie Database</a></b><br>CRUD-enabled movie listing app with authentication.</td>
+  </tr>
+  <tr>
+    <td><b>📝 <a href="https://github.com/gouri22-art/quiz-app" target="_blank">Quiz App</a></b><br>A dynamic quiz application using React & API.</td>
+    <td><b>👓 <a href="https://github.com/gouri22-art/optilink" target="_blank">OptiLink</a></b><br>A responsive eyewear website inspired by Lenskart.</td>
+  </tr>
+</table>
 
-### 📖 [Book Store Management App](https://github.com/gouri22-art/book-store-app)  
-📌 **Tech Stack:** React.js 
-📌 **Features:** Authentication, Book CRUD, Filtering, Pagination  
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gouri22-art&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouri22-art&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-### 🎬 [Movie Database App](https://github.com/gouri22-art/movie-db)  
-📌 **Tech Stack:** React.js, Fake Store API  
-📌 **Features:** Movie Listing, Search, Favorite Movies  
+<!-- Contact -->
+<h2>📫 Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajakta-kudale/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/gouri22-art" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### 📝 [Quiz Application](https://github.com/gouri22-art/quiz-app)  
-📌 **Tech Stack:** React.js, Mock API  
-📌 **Features:** Authentication, Quiz, Results Calculation  
-
-📍 **Explore More:** [🔗 My GitHub Repositories](https://github.com/gouri22-art?tab=repositories)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gouri22-art&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouri22-art&show_icons=true&theme=tokyonight)  
-
----
-
-## 📬 Connect with Me  
-
-- 📧 Email: [prajakta.kudale@example.com](mailto:prajakta.kudale@example.com)  
-- 💼 LinkedIn: [Prajakta Kudale](https://www.linkedin.com/in/prajakta-kudale-8125a8247)  
+<!-- CSS Animations for Icons -->
+<style>
+  .tech-icon {
+    transition: transform 0.5s ease-in-out;
+  }
+  .tech-icon:hover {
+    transform: rotate(360deg);
+  }
+</style>
 
 ⭐ **"Code, Learn, and Grow!"** 🚀  
 

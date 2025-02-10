@@ -1,7 +1,7 @@
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prajakta Kudale </h1>
-<h2 align="center">🚀 Aspiring Full-Stack Developer | Masai School Learner</h2>
+<h2 align="center">🚀 Aspiring Full-Stack Developer </h2>
 
-<h3 align="center">I'm an enthusiastic **Full-Stack Web Developer** currently upskilling at **Masai School**. Passionate about solving real-world problems through **clean code and scalable solutions**. </h3>
+<h4 align="center">I'm an enthusiastic **Full-Stack Web Developer** looking for an opportunity to work in a challenging environment to gain and learn knowledge. Passionate about solving real-world problems through **clean code and scalable solutions**. </h4>
 
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="175px"/></a>
 
